@@ -3,7 +3,6 @@ if (args.Connection != null) return;
 
     string[] paths =
     {
-        "server_log",
         "oxide/data",
         "oxide/logs",
         "oxide/config",
